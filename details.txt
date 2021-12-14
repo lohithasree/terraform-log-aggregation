@@ -1,0 +1,1 @@
+ log aggregation is also done by fluentd and terraform and also with gcp console
