@@ -1,3 +1,5 @@
+#these are the variables which are used in main.tf
+#path where the credentials had stored 
 variable "path" {
     default="C:/Users/THLOHITH/Desktop/terraformdemo/demo1/analysis"
 }

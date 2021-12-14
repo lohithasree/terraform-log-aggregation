@@ -1,0 +1,2 @@
+this terraform poc says about collection of different logs like vpc_flow logs, audit logs, data logs and admin logs.
+for analyzing of this logs have to use datastudio
